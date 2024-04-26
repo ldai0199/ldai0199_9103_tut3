@@ -19,4 +19,8 @@ This is my first repository
 
 **Images**
 **Remote images**
-![An image of a cat](http://placekitten.com/200/300)
+![An image of a cat](https://placekitten.com/200/300.jpg)
+**Local images**
+
+![The Mona Lisa](readmeimages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
