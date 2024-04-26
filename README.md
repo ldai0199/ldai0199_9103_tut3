@@ -16,3 +16,7 @@ This is my first repository
 - Item 2
     - Sub item 1
     - Sub item 2
+
+**Images**
+**Remote images**
+![An image of a cat](http://placekitten.com/200/300)
